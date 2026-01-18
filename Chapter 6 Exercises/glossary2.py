@@ -10,3 +10,4 @@ programming_words = {
 
 for word, definition in programming_words.items():
     print(f'{word.title()}:\n  {definition}')
+    
