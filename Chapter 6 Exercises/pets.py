@@ -28,7 +28,7 @@ maurice = {
 
 pets = [millie, maya, arnold, maurice]
 
-# Printing the values for each pet
+# Printing the keys & values for each pet
 print("List of Pets\n------------")
 for pet in pets:
     print(f'{pet['name'].title()}')
